@@ -1,4 +1,4 @@
-# 🌩️ CloudStash
+# ☁️ CloudStash
 
 CloudStash is a modern cloud storage web app that lets users upload, organize, preview, and manage files in a secure and intuitive interface — a functional Google Drive clone built with modern web technologies.
 
