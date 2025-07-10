@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌩️ CloudStash
 
-## Getting Started
+CloudStash is a modern cloud storage web app that lets users upload, organize, preview, and manage files in a secure and intuitive interface — a functional Google Drive clone built with modern web technologies.
 
-First, run the development server:
+## ✨ Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- 🔐 **Email-based OTP authentication** (via Appwrite)
+- 📁 **Categorized file management**: Images, Documents, Media, and Others
+- 📊 **Dashboard with usage analytics**: Visual chart for used space and file breakdown
+- 📥 **File upload, rename, delete, share, download**
+- 👀 **Live in-browser file preview**
+- 📤 **File sharing with registered users via email**
+- 🧭 **Global persistent sidebar** with profile info and file categories
+- 🔍 **Top search bar** for quick access
+- ⏱️ **Recent files section** on the dashboard
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+| Tech         | Usage                             |
+|--------------|------------------------------------|
+| [Next.js](https://nextjs.org/) | React framework for building the frontend |
+| TypeScript   | Type-safe development              |
+| [Appwrite](https://appwrite.io/) | Backend-as-a-Service (authentication, file storage, database) |
+| Tailwind CSS | Utility-first styling (with Shadcn UI) |
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📸 Screenshots
 
-## Learn More
+> _Add your UI screenshots here (Dashboard, Upload, File Preview, etc.)_
 
-To learn more about Next.js, take a look at the following resources:
+## 📂 Features by Page
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### ✅ Dashboard
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 🔍 Global search bar
 
-## Deploy on Vercel
+### 📁 File Categories
+- 📂 Filtered file display by type: **Documents**, **Media**, **Images**, **Others**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 👥 Sharing
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+---
+
+## 📦 Appwrite Usage
+
+| Service       | Usage Description                              |
+|---------------|------------------------------------------------|
+| 🔐 Authentication | Email + OTP-based user login (Appwrite Auth) |
+| 📁 Storage        | Files uploaded to Appwrite Bucket            |
+| 🗃️ Database       | File metadata and user management via Collections |
+
+
+## 🎥 View the Demo
+
+Experience the Zentry Reimagined project in action: **[Live Demo](https://cloud-stash-ruddy.vercel.app/)**
+
+## 🖥️ Discover More Work
+
+Explore additional interactive designs and innovative projects on my **[Projects Portfolio](https://sameermaitreportfolio.vercel.app/)**
