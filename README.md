@@ -54,7 +54,7 @@ CloudStash is a modern cloud storage web app that lets users upload, organize, p
 
 ## 🎥 View the Demo
 
-Experience the Zentry Reimagined project in action: **[Live Demo](https://cloud-stash-ruddy.vercel.app/)**
+Experience the CloudStash project in action: **[Live Demo](https://cloud-stash-ruddy.vercel.app/)**
 
 ## 🖥️ Discover More Work
 
