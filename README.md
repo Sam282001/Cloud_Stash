@@ -25,7 +25,9 @@ CloudStash is a modern cloud storage web app that lets users upload, organize, p
 
 ## 📸 Screenshots
 
-> _Add your UI screenshots here (Dashboard, Upload, File Preview, etc.)_
+<img width="1919" height="967" alt="dashboard ui" src="https://github.com/user-attachments/assets/08e1f6f6-f03e-4bd8-aef1-46eff8c552ac" />
+
+
 
 ## 📂 Features by Page
 
